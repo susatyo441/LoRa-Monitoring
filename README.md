@@ -16,7 +16,9 @@
 
 ## Final Product
 - LoRa Node Sender
+  <br>
   <img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/1.jpg" alt="drawing" width="200"/>
-  ![alt text](https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/1.jpg?raw=true)
+  <br>
 - LoRa Node Receiver
+  <br>
   <img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/2.jpg" alt="drawing" width="200"/>
