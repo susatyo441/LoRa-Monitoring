@@ -12,10 +12,11 @@
 - led
 
 ## Android
-![alt text](https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/android.jpg?raw=true)
+<img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/android.jpg" alt="drawing" width="200"/>
 
 ## Final Product
 - LoRa Node Sender
+  <img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/1.jpg" alt="drawing" width="200"/>
   ![alt text](https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/1.jpg?raw=true)
 - LoRa Node Receiver
-  ![alt text](https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/2.jpg?raw=true)
+  <img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/2.jpg" alt="drawing" width="200"/>
