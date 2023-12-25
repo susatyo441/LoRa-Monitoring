@@ -11,6 +11,15 @@
 - LoRa Ra-02 Ra02 SX1278 (x2)
 - led
 
+## Pin Connections
+- LoRa Node Sender
+<br>
+<img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/Screenshot_143.jpg" alt="drawing" width="300"/>
+<br>
+- LoRa Node Receiver
+<br>
+<img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/Screenshot_142.jpg" alt="drawing" width="300"/>
+<br>
 ## Android
 <img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/android.jpg" alt="drawing" width="200"/>
 
