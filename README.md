@@ -35,3 +35,7 @@ This system is divided into two parts which have their respective functions, nam
 - LoRa Node Receiver
   <br>
   <img src="https://github.com/susatyo441/LoRa-Monitoring/blob/main/images/2.jpg" alt="drawing" width="200"/>
+  <br>
+
+## Spreadhseet Example
+[Data Monitoring](https://docs.google.com/spreadsheets/d/1UK8CJpZI9xBuwvemT8g3Da8MrP4KbzUsFyA220THvoU/edit?hl=id#gid=1975471897)
